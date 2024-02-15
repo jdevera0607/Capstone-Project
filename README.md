@@ -16,6 +16,20 @@ I wanted to create this website because I believe that in the long run, our stor
 
 Having this original website will allow us to sell our custom-made products, while retaining a higher return on investment on very expensive, unique, and hard to find gems.
 
+# INITIAL PAGES 
+
+1. HOME
+2. PRODUCTS
+3. SUPPORT
+4. MEASUREMENT/SIZING
+5. LOGIN
+6. ACCOUNT
+7. ORDERS
+8. ABOUT
+9. RETURNS
+10. FAQ
+11. SITEMAP
+
 # About us -
 
 Deverachi is ran by a 2 people Mom and Pop jewelry shop in Gainesville, FL. Our business name was created by merging our two last names together!
@@ -60,22 +74,12 @@ Returns/Refunds/Exchanges - Not everything goes according to plan! If necessary,
 
 Marketing, selling, view store, display, purchases, invoice, shipping, delivery
 
-# INITIAL PAGES 
-
- 1. HOME
- 2. PRODUCTS
- 3. SUPPORT
- 4. MEASUREMENT/SIZING
- 5. LOGIN
- 6. ACCOUNT
- 7. ORDERS
- 8. ABOUT
- 9. RETURNS
-10. FAQ
-11. SITEMAP
+![Usecase](https://github.com/jdevera0607/Capstone-Project/assets/114884200/fc66de47-07e4-4ce0-ba70-992a6249d2b3)
 
 
 # Wireframe
 
 ![SeniorCapstoneHomepage](https://github.com/jdevera0607/Capstone-Project/assets/114884200/604147e9-8585-4cbe-8a40-b6ad66be3945)
 ![ProductsPage](https://github.com/jdevera0607/Capstone-Project/assets/114884200/cd5017ab-a8c4-4efe-a925-9599cfaaa889)
+
+
