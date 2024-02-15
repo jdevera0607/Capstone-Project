@@ -44,6 +44,8 @@ We will try to pick as uniform of gems and stones, but in the real world, nothin
 
 Deverachi LLC will always opt for USPS or UPS, we will not use anything else unless stated otherwise.
 
+We will ship purchases made before 3 P.M EST. 
+
 # RETURNS - 
 30 day return policy for any goods that are NOT custom, bespoke, or made-to-order jewelries. Any product that is on the site that is listed as reguarly on the shop page are considered standard products and will have a 30 day return policy.
 
