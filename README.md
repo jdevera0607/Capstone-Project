@@ -95,3 +95,7 @@ Marketing, selling, view store, display, purchases, invoice, shipping, delivery
 ![ProductsPage](https://github.com/jdevera0607/Capstone-Project/assets/114884200/cd5017ab-a8c4-4efe-a925-9599cfaaa889)
 
 
+# Solution Architecture Diagram
+
+![SolutionArchitecture drawio](https://github.com/jdevera0607/Capstone-Project/assets/114884200/394103c0-48e4-473b-989c-7de37cd03343)
+
