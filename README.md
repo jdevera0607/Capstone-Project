@@ -8,6 +8,8 @@ This online store should help with understanding and figuring out what products 
 Archiving will allow for past sales, as well as invoices provided for finances.
 Allows for option of standard jewelries vs custom, made-to-order jewelries.
 
+I wanted to create this website because I believe that in the long run, our store is an investment and having a middle man of using other websites take too much from our revenue. However, we will continue to sell in third-party products because we believe that it creates advertisements, and constant revenue. Having this original website will allow us to sell our custom-made products, while retaining a higher return on investment on very expensive, unique, and hard to find gems.
+
 About us -
 
 Deverachi is ran by a 2 people Mom and Pop jewelry shop in Gainesville, FL. Our business name was created by merging our two last names together!  Since there are only of two of us, we strive to create home-made, and custom jewelry at the highest quality. We will try our best to always answer questions and ship as fast as possible! 
@@ -25,7 +27,31 @@ If no defects are found, the buyer is responsible for return shipment.
 
 Use Case
 
+Researching of what to purchase, we encourage our customers to always ask questions before buying! 
+Getting sized properly. Because our products are home-made, we do not have a one size fit all. For the best fitment, please direct to the measurement page. 
+Purchase a product - Once a product is purchased, we will be notified that a product is purchased and the inventory size will change accordingly.
+Logistics - Once a product is purchased, we can manually create shipping labels through a third-party website that we are confident in using, and have used with a lengthy record. If issues occur, we will change accordingly.
+Shipping - Product will be dropped off at the logistics facility, with insurance to ensure that both parties are protected. 
+Delivery - Buyer will receive their product, and hopefully everything arrives in perfect condition! 
+Leave a review - We make our products with love, and we hope that the customers will love it too! The more positive reviews, the better!
+
 Marketing, selling, view store, display, purchases, invoice, shipping, delivery
+
+INITIAL PAGES -
+HOME
+PRODUCTS
+SUPPORT
+MEASUREMENT/SIZING
+LOGIN
+ACCOUNT
+ORDERS
+ABOUT
+RETURNS
+FAQ
+SITEMAP
+
+
+
 
 
 ![SeniorCapstoneHomepage](https://github.com/jdevera0607/Capstone-Project/assets/114884200/604147e9-8585-4cbe-8a40-b6ad66be3945)
