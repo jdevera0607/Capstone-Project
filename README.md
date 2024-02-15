@@ -57,6 +57,16 @@ Custom orders that are not up to customers' standard will be taken in on an retu
 If no defects are found, the buyer is responsible for return shipment.
 
 # Use Case
+As a buyer - I want to be able to research and get very well described products from websites that I am buying online.
+As a buyer - I want to be able to ensure that the product I am receiving is fit well.
+As a buyer - I want to be able to track the orders I have made, and see what I have ordered in a list.
+As a seller - I want to be able to track my invoices for finances.
+As a seller - I want to be able to get a return on investment while keeping my customers happy.
+As a beginner photographer - I want to take descriptive photos that show the quality of a product.
+As a shipper - I want to know that my products being shipped are protected and provided with tracking with the logistics company.
+As a manager - I want to be able to maintain good business relations with my customers, and update any discrepancies on the website.
+
+Marketing - I want to be able to use social media, such as instagram to advertise my products.
 
 Researching of what to purchase, we encourage our customers to always ask questions before buying! 
 
