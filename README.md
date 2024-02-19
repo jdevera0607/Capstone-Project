@@ -56,6 +56,18 @@ This is to protect our investments and our store to ensure that a buyer will mai
 Custom orders that are not up to customers' standard will be taken in on an return merchandise authorization (RMA) and inspected upon delivery. If manufacturer defects are found, it will be replaced with no charge, but no refunds will be issued. 
 If no defects are found, the buyer is responsible for return shipment.
 
+# Requirements -
+
+This website will require important parts to make this website run smoothly.
+
+| ID | Requirement |
+| -| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1 | Website will require a secure payment system that takes customers' information and charges them appropriately for their purchase. This system will also require a proper output display of price to ensure that a customer is looking at an accurate price and not paying for anything more.|
+| 2 | The website should feature an inventory system. This is important on both customers and manager side because knowing the current amount of inventory to know when to order more, and if there is enough quantity of a product should a buyer want to purchase a larger amount.
+| 3 | Social Media dedicated to the website/store. Many social media apps helpful with marketing for digital presence of a store. Having a social media allows us to announce newly made products, or any other interesting updates that allow us to interact with our customers, along with helping out with simple support questions.
+| 4 | Phone/Mobile friendly.I plan on testing this website with my mobile phone, and hopefully some friends' phones, to ensure that the store is flexible in its display and allows a wide variety of users to view the store.
+| 5 | Working support and contactThe store should have an operational support 'contact us' page that allows customers to text/email us for any questions that they may have. Customers are important, and ensuring that they are satisfied is a priority.
+                                                                                                             
 # Use Case
 As a buyer - I want to be able to research and get very well described products from websites that I am buying online.
 As a buyer - I want to be able to ensure that the product I am receiving is fit well.
