@@ -1,4 +1,4 @@
-# Capstone-Project
+# Deverachi LLC Website
 
  Home-made Jewelry Store
  
