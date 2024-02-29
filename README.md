@@ -2,6 +2,18 @@
 
  Home-made Jewelry Store
  
+#Table of Contents
+[User Stories](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#user-stories)
+[Initial Pages](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#initial-pages)
+[About Us](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#about-us--)
+[Shipping](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#shipping--)
+[Returns](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#returns--)
+[Requirements](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)
+[Use Case](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)
+[Wireframe](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)
+[Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)
+
+ 
 # User Stories
 
 This website will be used to sell home-made jewelry, along with helping inventory management.
