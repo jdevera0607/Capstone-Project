@@ -2,16 +2,16 @@
 
  Home-made Jewelry Store
  
-#Table of Contents
-[User Stories](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#user-stories)<br>
-[Initial Pages](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#initial-pages)<br>
-[About Us](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#about-us--)<br>
-[Shipping](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#shipping--)<br>
-[Returns](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#returns--)<br>
-[Requirements](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
-[Use Case](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
-[Wireframe](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
-[Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
+# Table of Contents
+1) [User Stories](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#user-stories)<br>
+2) [Initial Pages](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#initial-pages)<br>
+3) [About Us](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#about-us--)<br>
+4) [Shipping](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#shipping--)<br>
+5) [Returns](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#returns--)<br>
+6) [Requirements](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
+7) [Use Case](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
+8) [Wireframe](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
+9) [Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
 
  
 # User Stories
