@@ -3,15 +3,15 @@
  Home-made Jewelry Store
  
 #Table of Contents
-[User Stories](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#user-stories)
-[Initial Pages](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#initial-pages)
-[About Us](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#about-us--)
-[Shipping](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#shipping--)
-[Returns](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#returns--)
-[Requirements](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)
-[Use Case](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)
-[Wireframe](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)
-[Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)
+[User Stories](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#user-stories)<br>
+[Initial Pages](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#initial-pages)<br>
+[About Us](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#about-us--)<br>
+[Shipping](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#shipping--)<br>
+[Returns](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#returns--)<br>
+[Requirements](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
+[Use Case](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
+[Wireframe](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
+[Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
 
  
 # User Stories
@@ -121,5 +121,7 @@ Marketing, selling, view store, display, purchases, invoice, shipping, delivery
 
 # Solution Architecture Diagram
 
-![SolutionArchitecture drawio](https://github.com/jdevera0607/Capstone-Project/assets/114884200/394103c0-48e4-473b-989c-7de37cd03343)
+![SolutionArchitecture drawio](https://github.com/jdevera0607/Capstone-Project/assets/114884200/394103c0-48e4-473b-989c-7de37cd03343) <br>
+
+[Back to top](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#deverachi-llc-website)
 
