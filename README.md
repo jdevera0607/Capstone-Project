@@ -12,6 +12,8 @@
 7) [Use Case](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#requirements--)<br>
 8) [Wireframe](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
 9) [Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
+10) [ERD](https://github.com/jdevera0607/Deverachi-Store/edit/main/README.md#erd)
+11) [UML](https://github.com/jdevera0607/Deverachi-Store/edit/main/README.md#uml)
 
  
 # User Stories
@@ -122,6 +124,13 @@ Marketing, selling, view store, display, purchases, invoice, shipping, delivery
 # Solution Architecture Diagram
 
 ![SolutionArchitecture drawio](https://github.com/jdevera0607/Capstone-Project/assets/114884200/394103c0-48e4-473b-989c-7de37cd03343) <br>
+
+# ERD 
+
+![ERD](https://github.com/jdevera0607/Deverachi-Store/assets/114884200/6127822b-5797-46dd-8765-9be0b230d1b0) <br>
+
+# UML
+![UML](https://github.com/jdevera0607/Deverachi-Store/assets/114884200/7086f9d5-ad24-4177-9476-79bd87bcb951) <br>
 
 [Back to top](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#deverachi-llc-website)
 
