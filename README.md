@@ -14,6 +14,7 @@
 9) [Solution Architecture Diagram](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#wireframe)<br>
 10) [ERD](https://github.com/jdevera0607/Deverachi-Store/edit/main/README.md#erd)
 11) [UML](https://github.com/jdevera0607/Deverachi-Store/edit/main/README.md#uml)
+12) [DAL](https://github.com/jdevera0607/Deverachi-Store/blob/f86d570d509139ed0c6095c119e53ff99334004a/Prototype/DAL/Screenshot_4.png)
 
  
 # User Stories
