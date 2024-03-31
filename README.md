@@ -135,5 +135,7 @@ Marketing, selling, view store, display, purchases, invoice, shipping, delivery
 # DAL
 ![HTTP Response](Prototype/DAL/Screenshot_3.png) <br>
 
+# DAL
+![Model Code](Prototype/DAL/Screenshot_4.png) <br>
 
 [Back to top](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#deverachi-llc-website)
