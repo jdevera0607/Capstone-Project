@@ -132,5 +132,8 @@ Marketing, selling, view store, display, purchases, invoice, shipping, delivery
 # UML
 ![UML](https://github.com/jdevera0607/Deverachi-Store/assets/114884200/7086f9d5-ad24-4177-9476-79bd87bcb951) <br>
 
-[Back to top](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#deverachi-llc-website)
+# DAL
+![HTTP Response](Prototype/DAL/Screenshot_3.png) <br>
 
+
+[Back to top](https://github.com/jdevera0607/Capstone-Project/blob/main/README.md#deverachi-llc-website)
